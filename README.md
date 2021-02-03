@@ -7,11 +7,11 @@
 
 ## AREAS OF EXPERTISE
 
-- Develop an infrastructure and IaC using CloudFormation or Terraform
-- Develop a Crawler and Scraper
+- Developing an infrastructure and IaC using CloudFormation or Terraform
+- Developing a Crawler and Scraper
 - NLP([Paper](https://ieeexplore.ieee.org/document/8668999))
 - MachineLearning(Kaggle 🥈）
-- Develop a data infrastructure
+- Developing a data infrastructure
 - Backend
 - A little bit Frontend
 
@@ -29,7 +29,7 @@
 
 - Not a morning person
 
-- Coffeee Driven Development☕️
+- Coffee Driven Development☕️
 
 ---
 
@@ -37,7 +37,7 @@
 
 Only skill I experienced listed.
 
-＊Left one is more skillful
+> Left one is more skillful
 
 ### Language
 
@@ -101,7 +101,7 @@ Only skill I experienced listed.
 
 ### Frontend Engineer (2017~2018)
 EC service officially translating and introducing eBay stuffs for Japanese who don't read English.
-Take a fix of client side. Especially, making the Valentine campain page, deployment of the push notification feature and developing the recommendation system. It boosted the CVR to 110%.
+Take a fix of the client side. Especially, making the Valentine campaign page, deployment of the push notification feature and developing the recommendation system. It boosted the CVR to 110%.
 I got basically **LAMP** skills from here. 
 - Tools
     - strusts2
@@ -114,7 +114,7 @@ I got basically **LAMP** skills from here.
         
 ### Backend Engineer 1 (2018)
 In the above EC company, I also was in charge of Backend. 
-I create a crawler using BeautifulSoup and requests.
+I created a crawler using BeautifulSoup and requests.
 And the crawler prepare some feature for availability and loose coupling like this: task queue(Redis),
 DB(MongoDB), console(nginx+flask)
 - Tools     
@@ -129,8 +129,8 @@ DB(MongoDB), console(nginx+flask)
     - MySQL
 
 ### AI Engineer 1 (2019-2020)
-It's my first step of ML Engineer. I made a AI system using multi modal learning. The system classify
-if an item is importable or not. Also I developed the infrastructure and the API using Vue.js and flask. The system is reported by a tech-media in Japan what we call [PR-times](https://prtimes.jp/main/html/rd/p/000000046.000035599.html).
+It's my first step of ML Engineer. I made an AI system using multi modal learning. The system classify
+if an item is importable or not. Also, I developed the infrastructure and the API using Vue.js and flask. The system is reported by a tech-media in Japan what we call [PR-times](https://prtimes.jp/main/html/rd/p/000000046.000035599.html).
 - Tools  
     - Python3
     - flask
@@ -148,7 +148,7 @@ if an item is importable or not. Also I developed the infrastructure and the API
         
  ### Data Engineer (2019 1 month)
 I worked a huge telecommunication firm as an AI Engineer.
-In there, I create a machine learning model for classify a bad review or not. The model was installed a new method called VAT at that time. It's a semi-supervised learning model. Also setup Crawler to collect data for learning with Docker.
+In there, I created a machine learning model for classify a bad review or not. The model was installed a new method called VAT at that time. It's a semi-supervised learning model. Also I had setup Crawler to collect data for learning with Docker.
 - Tools
     - AWS(only GPU instance)
     - Python3
@@ -166,7 +166,7 @@ In there, I create a machine learning model for classify a bad review or not. Th
     - naive bayes
         
 ### Data Analyst (2019 1 month)
-I analyze restaurant data with BI tool:Tableau in a HR company.
+I analyzed restaurant data with BI tool:Tableau in a HR company.
 - Tools
     - Tableau
         
@@ -185,8 +185,8 @@ I empowered a startup comapany as NLP specialist. I, technically, created a auto
     
 ### AI Consultant (2019-2020)
 I joined AI team as an AI consultant in a startup. 
-The team is so global and all not Japanese execpt me.
-We share the information about machine learning with team in English.
+The team is so global and all not Japanese except me.
+We share the information about machine learning with the team in English.
 And I made a small sentiment model as PoC.
 - Tools
     - Python3
@@ -198,7 +198,7 @@ And I made a small sentiment model as PoC.
     - glove
 
 ### (Sidejob) Backend Engineer 2 (2020)
-Developed massive serverless crawling system. I made the system from blueprint. I had the responsible from prototype to product level and I also manage and teach team member as tech lead. The system has great features: super easy to use, auto deploy, almost no operation toil because of serveless architecture.
+Developed massive serverless crawling system. I made the system from blueprint. I had the responsible from prototype to product level and I also manage and teach the team member as tech lead. The system has great features: super easy to use, auto deploy, almost no operation toil because of serverless architecture.
 - Tools
     - Terraform
     - Github Actions
@@ -218,7 +218,7 @@ Developing an image segmentation model.
     - S3
 
 ### SRE (2020-)
-I have a career opportunity as DevOps and MLOps engineer. My contribution is mainly developing and operating Microservices and Serverless systems for scaling and reliability. Also I try to make a decision of what architecture is the best or better as a first of my system architect.
+I have a career opportunity as DevOps and MLOps engineer. My contribution is mainly developing and operating Microservices and Serverless systems for scaling and reliability. Also, I try to make a decision of what architecture is the best or better as a first of my system architect.
 
 - Tools
     - Kubernetes
