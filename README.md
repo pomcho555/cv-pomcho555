@@ -1,6 +1,6 @@
 # Resume
 
-<style>
+<!-- <style>
 .column-left{
   float: left;
   width: 47.5%;
@@ -16,7 +16,7 @@
   width: 100%;
   text-align: left;
 }
-</style>
+</style> -->
 
 <div class="column-left">
 
