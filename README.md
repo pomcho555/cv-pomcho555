@@ -130,7 +130,7 @@ DB(MongoDB), console(nginx+flask)
 
 ### AI Engineer 1 (2019-2020)
 It's my first step of ML Engineer. I made an AI system using multi modal learning. The system classify
-if an item is importable or not. Also, I developed the infrastructure and the API using Vue.js and flask. The system is reported by a tech-media in Japan what we call [PR-times](https://prtimes.jp/main/html/rd/p/000000046.000035599.html).
+if an item is importable or not. Also, I developed the infrastructure and the API using Vue.js and flask. The system is reported by a tech-media in Japan called [PR-times](https://prtimes.jp/main/html/rd/p/000000046.000035599.html).
 - Tools  
     - Python3
     - flask
