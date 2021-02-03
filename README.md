@@ -1,7 +1,7 @@
 # Resume
 
 ## PROFILE
-- Master of Information Engineering
+- Master of Software Engineering
 - Engineer
 - IT consultant
 
