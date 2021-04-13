@@ -39,7 +39,7 @@
 
 - Develop a MLOps and data platform from A to Z
 
-- Develop 10 crawlers including message queue
+- Developed 10 crawlers including message queue
 
 - Develop products under **BUSINESS THINKING**
 
