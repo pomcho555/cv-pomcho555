@@ -41,7 +41,7 @@
 
 - Developed 10 crawlers including message queue
 
-- Develop products under **BUSINESS THINKING**
+- Develop products under **BUSINESS THINKING** (PSF, SPF, PMF)
 
 ## PERSONAL
 
@@ -255,7 +255,7 @@ Developed massive serverless crawling system. I made the system from blueprint. 
 - k8s
 - squid
 
-### (Sidejob) AI Engineer 3 (2020-)
+### (Sidejob) AI Engineer 3 (2020-2021)
 Developing an image segmentation model.
 
 #### Tools
@@ -276,8 +276,9 @@ I have a career opportunity as DevOps and MLOps engineer. My contribution is mai
 - Python
 - ES6
 - fluentd
+- Vue.js
 
-### (Sidejob) Data Engineer 2 (2021-)
+### (Sidejob) Data Engineer 2 (2021)
 Survey and tuning of the existing data platform.
 I mainly focus on RDB performance.
 
@@ -285,4 +286,5 @@ I mainly focus on RDB performance.
 
 - MySQL
 - RDS
+
 </div>
