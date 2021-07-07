@@ -257,7 +257,8 @@ Developed massive serverless crawling system. I made the system from blueprint. 
 
 ### (Sidejob) AI Engineer 3 (2020-2021)
 Developing an image segmentation model.
-
+This result is published in [arXiv](https://arxiv.org/abs/2106.15361)
+  
 #### Tools
 
 - Pytorch
