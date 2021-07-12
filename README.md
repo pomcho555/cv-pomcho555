@@ -91,6 +91,9 @@ Only skill I experienced listed.
 ### MachineLearning
 
     Pytorch/sklearn/pandas/Tensorflow/optuna/matplotlib/PuLP
+  
+### BigData
+  Spark(PySpark)
     
 ### MLOps
     MLflow/Kubeflow
